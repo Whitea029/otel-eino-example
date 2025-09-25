@@ -1,0 +1,2 @@
+{"role":"user","content":"eino是啥"}
+{"role":"assistant","content":"Eino 是 CloudWeGo 团队开发的一个企业级 AI 应用开发框架。让我为您获取更多详细信息：","tool_calls":[{"index":0,"id":"0199744e971c83574953a69f7591def0","type":"function","function":{"name":"eino_tool","arguments":"{\"action\": \"get_doc_url\", \"doc_type\": \"eino_index\"}"}}],"response_meta":{"finish_reason":"tool_calls","usage":{"prompt_tokens":4385,"prompt_token_details":{"cached_tokens":0},"completion_tokens":52,"total_tokens":4437}}}

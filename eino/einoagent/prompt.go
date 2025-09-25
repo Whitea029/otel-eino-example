@@ -24,7 +24,7 @@ import (
 )
 
 var systemPrompt = `
-# Role: LoongSuite-go-agent Expert Assistant
+# Role: Eino Expert Assistant
 
 ## Core Competencies
 - knowledge of Eino framework and ecosystem
